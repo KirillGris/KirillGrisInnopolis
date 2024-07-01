@@ -2,7 +2,7 @@ package homework01;
 import java.util.Scanner;
 import java.util.Random;
 
-
+//
 public class firstTask {
     public static void main(String[] args) {
         Random r = new Random();
